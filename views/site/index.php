@@ -7,7 +7,7 @@ use yii\bootstrap\Html;
         <header id="header">
             <nav>
                 <ul>
-                    <li><a href="<?=\yii\helpers\Url::to(['/site/makeweb'])?>" class="white-color fables-second-hover-background-color">Заказать</a></li>
+                    <li><a href="<?=\yii\helpers\Url::to(['/site/makeweb'])?>" class="white-color fables-second-hover-background-color">Заказ</a></li>
                 </ul>
             </nav>
             <div class="content">
