@@ -16,7 +16,7 @@ use yii\bootstrap\Html;
                         <div class="collapse navbar-collapse" id="fablesNavDropdown">
                             <ul class="navbar-nav fables-nav">
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link" href="<?=\yii\helpers\Url::home()?>">Главная</a>
+                                    <a class="nav-link" href="<?=\yii\helpers\Url::home()?>">Глав</a>
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link" href="#site">Цены</a>
